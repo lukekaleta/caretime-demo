@@ -1,0 +1,19 @@
+{
+    "Service name": "Název služby",
+    "Unknown service": "Neznámá služba",
+    "Service description": "Popis služby",
+    "No description": "Bez popisu",
+    "Date and time": "Datum a čas",
+    "Not selected": "Nezvoleno",
+    "Duration": "Doba trvání",
+    "Minutes": "minut",
+    "Service price": "Cena služby",
+    "Reservation": "Rezervace",
+    "Create a reservation": "Vytvořit rezervaci",
+    "Next": "Další",
+    "Back": "Zpět",
+    "The reservation has been created": "Rezervace byla vytvořena!",
+    "Your appointment with the doctor has been successfully received": "Vaše rezervace u lékaře byla úspěšně přijata.",
+    "The reservation will be valid once confirmed by the doctor. You will be informed via email, SMS, or you can check the reservation status in the app": "Rezervace bude platná až po potvrzení lékařem. O potvrzení budete informováni emailem, SMS nebo stav rezervace lze sledovat i v aplikaci.",
+    "View my reservations": "Zobrazit moje rezervace"
+  }

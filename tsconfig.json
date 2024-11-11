@@ -1,0 +1,41 @@
+{
+    "compilerOptions": {
+        "baseUrl": "src",
+        "paths": {
+            "@/api/*": ["api/*"],
+            "@/components/*": ["components/*"],
+            "@/config/*": ["config/*"],
+            "@/enums/*": ["enums/*"],
+            "@/hooks/*": ["hooks/*"],
+            "@/interfaces/*": ["interfaces/*"],
+            "@/lib/*": ["lib/*"],
+            "@/locales/*": ["locales/*"],
+            "@/root/*": ["root/*"],
+            "@/routes/*": ["routes/*"],
+            "@/services/*": ["services/*"],
+            "@/stores/*": ["stores/*"],
+            "@/styles/*": ["styles/*"],
+            "@/theme/*": ["theme/*"],
+            "@/utils/*": ["utils/*"],
+            "@/types/*": ["types/*"]
+        },
+        "target": "es6",
+        "lib": ["dom", "dom.iterable", "esnext", "es6"],
+        "allowJs": true,
+        "skipLibCheck": true,
+        "esModuleInterop": true,
+        "allowSyntheticDefaultImports": true,
+        "strict": true,
+        "rootDir": ".",
+        "forceConsistentCasingInFileNames": true,
+        "noFallthroughCasesInSwitch": true,
+        "module": "esnext",
+        "moduleResolution": "node",
+        "resolveJsonModule": true,
+        "isolatedModules": true,
+        "noEmit": true,
+        "jsx": "react-jsx",
+        "typeRoots": ["node_modules/@types", "@typings/modules"]
+    },
+    "include": ["src", "**/*.ts", "**/*.tsx"]
+}

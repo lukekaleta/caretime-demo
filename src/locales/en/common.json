@@ -1,0 +1,9 @@
+{
+  "admin": "Administrátor",
+  "doctor": "Lékař",
+  "manager": "Manažer",
+  "nurse": "Zdravotní sestra",
+  "reception": "Recepční",
+  "super-admin": "Super Admin",
+  "user": "Uživatel"
+}

@@ -1,0 +1,22 @@
+{
+  "Start": "Začátek",
+  "End": "Konec",
+  "Status": "Status",
+  "Duration": "Doba Trvání",
+  "Note": "Poznámka",
+  "Confirmed": "Potvrzeno",
+  "Cancelled": "Zrušeno",
+  "Default": "Výchozí",
+  "Previous": "Předchozí",
+  "Next": "Další",
+  "Month View": "Měsíční Zobrazení",
+  "Week View": "Týdenní Zobrazení",
+  "Day View": "Denní Zobrazení",
+  "Close": "Zavřít",
+  "Error Fetching Reservations": "Chyba při Načítání Rezervací",
+  "Not Specified": "Není Specifikováno",
+  "Select Day": "Vyberte Den",
+  "Select Month": "Vyberte Měsíc",
+  "Select Year": "Vyberte Rok",
+  "Select View": "Vyberte Zobrazení"
+}

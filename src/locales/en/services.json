@@ -1,0 +1,17 @@
+{
+  "Edit service": "Upravit službu",
+  "Add service": "Přidat novou službu",
+  "Procedure name": "Název úkonu",
+  "Procedure name required": "Název procedury je povinný",
+  "Procedure description": "Popis procedury",
+  "Default duration": "Výchozí trvání (minuty)",
+  "Default duration required": "Trvání je povinné",
+  "Price": "Cena služby (Kč)",
+  "Price required": "Cena je povinná",
+  "Available days": "Dny, kdy je služba dostupná:",
+  "Available time slots": "Časové sloty pro službu:",
+  "Remove": "Odstranit",
+  "Add time slot": "Přidat časový slot",
+  "Confirm delete": "Opravdu chcete odstranit tuto službu?",
+  "Delete warning": "Tuto akci nelze vrátit zpět. Služba bude trvale odstraněna."
+}

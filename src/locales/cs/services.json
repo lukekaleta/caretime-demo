@@ -1,0 +1,19 @@
+{
+  "Edit service": "Upravit službu",
+  "Add service": "Přidat novou službu",
+  "Delete service": "Odstranit službu",
+  "Service name": "Název služby",
+  "Service name required": "Název služby je povinný",
+  "Service description": "Popis služby",
+  "Service duration": "Doba trvání (minuty)",
+  "Service duration required": "Doba trvání je povinná",
+  "Price": "Cena služby (Kč)",
+  "Price required": "Cena je povinná",
+  "Available days": "Dny, kdy je služba dostupná:",
+  "Available time slots": "Časové sloty pro službu:",
+  "Start time": "Začátek časového slotu",
+  "End time": "Konec časového slotu",
+  "Remove": "Odstranit",
+  "Confirm delete": "Opravdu chcete odstranit tuto službu?",
+  "Delete warning": "Tuto akci nelze vrátit zpět. Služba bude trvale odstraněna."
+}
